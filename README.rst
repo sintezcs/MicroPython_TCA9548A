@@ -1,18 +1,6 @@
 Introduction
 ============
 
-.. image:: https://readthedocs.org/projects/adafruit-circuitpython-tca9548a/badge/?version=latest
-    :target: https://circuitpython.readthedocs.io/projects/tca9548a/en/latest/
-    :alt: Documentation Status
-
-.. image:: https://img.shields.io/discord/327254708534116352.svg
-    :target: https://discord.gg/nBQh6qu
-    :alt: Discord
-
-.. image:: https://travis-ci.org/adafruit/Adafruit_CircuitPython_TCA9548A.svg?branch=master
-    :target: https://travis-ci.org/adafruit/Adafruit_CircuitPython_TCA9548A
-    :alt: Build Status
-
 MicroPython driver for the TCA9548A I2C Multiplexer based on Adafruit CircuitPython TCA9548A.
 
 Usage Example
